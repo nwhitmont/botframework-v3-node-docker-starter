@@ -1,0 +1,26 @@
+{
+  "name": "botframework-v3-node-docker-starter",
+  "version": "1.0.0",
+  "description": "Microsoft Bot Framework starter project for Azure App Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwhitmont/botframework-v3-node-docker-starter.git"
+  },
+  "keywords": [
+    "botframework",
+    "botbuilder",
+    "azure",
+    "docker"
+  ],
+  "author": "Nils Whitmont",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "moment": "^2.19.1",
+    "restify": "^6.2.3"
+  }
+}
