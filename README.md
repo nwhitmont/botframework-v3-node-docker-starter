@@ -11,4 +11,5 @@ You can test this image by pulling it down from Docker Hub using the following c
 4. Connect Emulator to `http://localhost:3978/api/messages`
 5. Chat with bot
 
+![Emulator App Settings](/app_settings.png?raw=true "Emulator App Settings")
 
